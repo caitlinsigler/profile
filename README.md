@@ -17,19 +17,19 @@ A group software project that I worked on with a team of other SCU students, kno
 - Solve math and computer science problems and post them for students to challenge and expand upon their fundamental skills 
 - Program JavaScript coding challenges with constraints that require creative problem solving and analytical thinking
 
-#### Administrative Assistant
-##### Santa Clara University School of Law (Apr. 2018- Present)
+#### Administrative Assistant (Apr. 2018- Present)
+##### Santa Clara University School of Law
 - Manage SALTO card programming system to ensure protected access for law professors, administrators, and students 
 - Publish documents and schedules for professors and administration
 - Answer and transfer incoming calls to different departments
 
-#### Educator
+#### Educator (Jun. 2018- Jul. 2018)
 ##### Code Hobbits
 - Teach STEM focused Summer classes to students age 10-14 such as Virtual Reality, Circuit Playground, and Scratch & Makey Makey.
 - Utilize Scratch, MIT app Inventor, and Arduino to aloow students to gain experience and skills in various technologies.
 - Create a fun and inclusive environment with the goal of introducing young students to core STEM topics in a fun and educational way
 
-#### Immersive Study: Rwanda
+#### Immersive Study: Rwanda (Aug. 2018)
 - Participated in an immersive study in Rwanda through Santa Clara University that focused on
 sustainable development and technological advances in Rwanda
 - Met with professionals and entrepreneurs who have built and worked for companies that promote social benefit and sustainability within the country as well as internationally
