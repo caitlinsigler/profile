@@ -1,55 +1,60 @@
 
-//curried and non-curried version of same problem
+//curried and non-curried versions of same problem
+//each problem returns a list containing the even elements of xs
 object currying { 
   def main(args: Array[String]) {
-  def ys= List(12, 6, 23, 1, 8, 4)
-  def g(x:Int): Boolean= {
-    x%2 == 0
-  }
+    //parameters for the following functions: list ys and function isEven
+    def ys= List(12, 6, 23, 1, 8, 4)
+    def isEven(x:Int): Boolean= {
+      x%2 == 0
+    }
   
-  //returns a list containing the elements of xs for which f(x) is true 
+  //non-curried version
   def isTrue(xs:List[Int], f:Int=>Boolean): List[Int]= {
-    if (xs.isEmpty) Nil
+    if (xs.isEmpty) Nil //base case, append Nil at end of list
     else if (f(xs.head)){
-      xs.head :: isTrue(xs.tail, f)
+      xs.head :: isTrue(xs.tail, f) //if even, append head to list using cons, recursively parse through tail
     }
     else{
-      isTrue(xs.tail, f)
+      isTrue(xs.tail, f) //skip head if odd, recursively parse through tail
     }
   }
-  println(isTrue(ys, g))
+  
+  println(isTrue(ys, isEven))
 
   
  //curried version of above function
   def isCurried(f:Int=>Boolean): List[Int]=> List[Int]= {
-    xs=>
-      if (xs.isEmpty) Nil
+    xs=> //transformer, compiler interprets as list from return value
+      if (xs.isEmpty) Nil //append Nil at end of list
       else {
-        def ret= isCurried(f)
+        def ret= isCurried(f) //define return function
         if (f(xs.head)){
-          xs.head :: ret(xs.tail)
+          xs.head :: ret(xs.tail) //if even, append head to list using cons, recursively parse through tail
         }
         else{
-          ret(xs.tail)
+          ret(xs.tail) //skip head if odd, recursively parse through tail
         }
       }
     }
-    println(isCurried(g)(ys))
+    
+  println(isCurried(isEven)(ys))
    
  
 //anonymously curried version of above function
   def isCurriedAnon(f:Int=>Boolean): List[Int]=> List[Int]= {
-    xs=>
+    xs=> //transformer, compiler interprets as list from return value
       if (xs.isEmpty) Nil
       else {
         if (f(xs.head)){
-          xs.head :: isCurriedAnon(f)(xs.tail)
+          xs.head :: isCurriedAnon(f)(xs.tail) //if even, append head to list using cons, recursively parse through tail
         }
         else{
-          isCurriedAnon(f)(xs.tail)
+          isCurriedAnon(f)(xs.tail) //skip head if odd, recursively parse through tail
         }
       }
   }
-  println(isCurriedAnon(g)(ys))
+  
+  println(isCurriedAnon(isEven)(ys))
 }
 }
