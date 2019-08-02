@@ -7,6 +7,7 @@ My name is Caitlin Sigler. I am currently a student at Santa Clara University st
 
 #### Skills
 Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
+
 Tools: Git, Jupyter Notebooks, Xcode, Atom, Sublime Text, Qt
 
 #### Related Coursework
