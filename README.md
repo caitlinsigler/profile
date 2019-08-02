@@ -3,7 +3,7 @@
 <img src="images/photo%20copy.jpeg" width="200">
 
 
-My name is Caitlin Sigler. I am currently a student at Santa Clara University studying computer science, environmental studies, and sustainability. 
+My name is Caitlin Sigler. I am currently a student at Santa Clara University earning my BS in computer science, along with two minors in environmental studies and sustainability. 
 
 #### Skills
 Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
