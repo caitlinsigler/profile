@@ -3,7 +3,14 @@
 <img src="images/photo%20copy.jpeg" width="200">
 
 
-My name is Caitlin Sigler. I am currently a student at Santa Clara University, studying computer science, environmental studies, and sustainability. 
+My name is Caitlin Sigler. I am currently a student at Santa Clara University studying computer science, environmental studies, and sustainability. 
+
+#### Skills
+##### Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
+##### Tools: Git, Jupyter Notebooks, Xcode, Atom, Sublime Text, Qt
+
+#### Related Coursework
+Design and Management of Software, Programming Languages, Operating Systems, Discrete Mathematics, Automata Theory, Probability & Statistics, Algorithm Theory & Design, Object Oriented Programming, Data Structures, Embedded Systems & Logic Design, Single and Multivariable Calculus
 
 ### Recent Projects
 #### Automated Hydroponic System
