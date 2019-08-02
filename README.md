@@ -30,6 +30,7 @@ A group software project that I worked on with a team of other SCU students, kno
 - Create a fun and inclusive environment with the goal of introducing young students to core STEM topics in a fun and educational way
 
 #### Immersive Study: Rwanda (Aug. 2018)
+##### Center for Food Innovation and Entrepreneurship, Santa Clara University
 - Participated in an immersive study in Rwanda through Santa Clara University that focused on
 sustainable development and technological advances in Rwanda
 - Met with professionals and entrepreneurs who have built and worked for companies that promote social benefit and sustainability within the country as well as internationally
