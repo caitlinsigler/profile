@@ -1,6 +1,6 @@
 //Created by: Caitlin Sigler, 2019
 //curried and non-curried versions of same problem
-//each problem returns a list containing the even elements of xs
+//each problem returns a list containing the even elements of ys
 object currying { 
   def main(args: Array[String]) {
     //parameters for the following functions: list ys and function isEven
