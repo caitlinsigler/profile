@@ -8,21 +8,3 @@ The most recent project I have worked on is an [automated hydroponics system](ht
 I have also worked on a simple [website](https://bonniesbees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backayrd.
 
 A group software project that I worked on with a team of other SCU students, known as [Uadopt](https://uadopt.netlify.com), is a website that uses AI to match a user with their perfect pet. I took a lead role on the layout and design of the website, and also developed the matching algorithm. My original C++ code can be found [here](https://github.com/caitlinsigler/SCUProjects/blob/master/C/AlgorithmTesting.cpp), but you can see it in action [here](https://github.com/NickPriv/Uadopt/blob/master/topFiveBreeds.php). 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
