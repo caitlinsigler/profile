@@ -2,6 +2,7 @@
 
 <img src="images/photo%20copy.jpeg" width="200">
 
+
 My name is Caitlin Sigler. I am currently a student at Santa Clara University, studying computer science, environmental studies, and sustainability. 
 
 ### Recent Projects
