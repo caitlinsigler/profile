@@ -1,14 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Profile!
 
-You can use the [editor on GitHub](https://github.com/caitlinsigler/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Caitlin Sigler. I am currently a student at Santa Clara University, studying computer science, environmental studies, and sustainability. 
 
-Link to [Bonnie's Bee's](https://github.com/caitlinsigler/BonniesBees/blob/master/bonnies.html) 
+### Recent Projects
+The most recent project I have worked on is an [automated hydroponics system](https://). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have also worked on a simple [website](https://bonniesbees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backayrd.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A group software project that I worked on with a team of other SCU students, known as [Uadopt](https://uadopt.netlify.com), is a website that uses AI to match a user with their perfect pet. I took a lead role on the layout and design of the website, and also developed the matching algorithm. My original C++ code can be found [here](https://github.com/caitlinsigler/SCUProjects/blob/master/C/AlgorithmTesting.cpp), but you can see it in action [here](https://github.com/NickPriv/Uadopt/blob/master/topFiveBreeds.php). 
 
 ```markdown
 Syntax highlighted code block
@@ -27,13 +26,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caitlinsigler/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
