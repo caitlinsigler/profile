@@ -1,6 +1,6 @@
 ## Welcome to my Profile!
 
-![alt text](https://github.com/caitlinsigler/profile/blob/master/images/photo%20copy.jpeg =200x )
+![alt text](https://github.com/caitlinsigler/profile/blob/master/images/photo%20copy.jpeg =200x)
 My name is Caitlin Sigler. I am currently a student at Santa Clara University, studying computer science, environmental studies, and sustainability. 
 
 ### Recent Projects
