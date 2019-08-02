@@ -1,4 +1,4 @@
-
+//Created by: Caitlin Sigler, 2019
 //curried and non-curried versions of same problem
 //each problem returns a list containing the even elements of xs
 object currying { 
