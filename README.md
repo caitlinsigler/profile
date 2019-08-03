@@ -5,6 +5,11 @@
 
 My name is Caitlin Sigler. I am currently a student at Santa Clara University earning my BS in computer science, along with two minors in environmental studies and sustainability. 
 
+#### Contact
+caitlins360@gmail.com
+[LinkedIn](https://www.linkedin.com/in/caitlinsigler/)
+[GitHub](https://github.com/caitlinsigler)
+
 #### Skills
 Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
 
