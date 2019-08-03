@@ -7,8 +7,14 @@ My name is Caitlin Sigler. I am currently a student at Santa Clara University ea
 
 #### Contact
 caitlins360@gmail.com
+
+
 [LinkedIn](https://www.linkedin.com/in/caitlinsigler/)
+
+
 [GitHub](https://github.com/caitlinsigler)
+
+
 
 #### Skills
 Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
