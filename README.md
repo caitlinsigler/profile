@@ -40,7 +40,7 @@ A group software project that I worked on with a team of other SCU students, kno
 
 #### Associate Developer (Oct. 2018- Present)
 ##### Code Hobbits 
-- Develop Python curriculum and tutorials, teaching fundamental data science tools in Jupyter Notebooks
+- Develop Python curriculum and tutorials, teaching data science skills and tools in Jupyter Notebooks
 - Solve math and computer science problems and post them for students to challenge and expand upon their fundamental skills 
 - Program JavaScript coding challenges with constraints that require creative problem solving and analytical thinking
 
