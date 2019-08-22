@@ -15,7 +15,7 @@ caitlins360@gmail.com
 [GitHub](https://github.com/caitlinsigler)
 
 
-[resume](http://)
+[Resume](http://)
 
 #### Skills
 Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
@@ -31,7 +31,7 @@ Design and Management of Software, Programming Languages, Operating Systems, Dis
 The most recent project I have worked on is an [automated hydroponics system](https://). This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing.
 
 #### Bonnie's Bees
-I have also worked on a simple [website](https://bonniesbees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backayrd.
+I have also worked on a simple [website](https://bonniebees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backayrd.
 
 #### Uadopt
 A group software project that I worked on with a team of other SCU students, known as [Uadopt](https://uadopt.netlify.com), is a website that uses AI to match a user with their perfect pet. I took a lead role on the layout and design of the website, and also developed the matching algorithm. My original C++ code can be found [here](https://github.com/caitlinsigler/SCUProjects/blob/master/C/AlgorithmTesting.cpp), but you can see it in action [here](https://github.com/NickPriv/Uadopt/blob/master/topFiveBreeds.php). 
