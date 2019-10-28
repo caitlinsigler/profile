@@ -31,7 +31,7 @@ The most recent project I have worked on is an [automated hydroponics system](ht
 I have also built a simple [website](https://bonniebees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backyard. View the repository [here](https://github.com/caitlinsigler/BonniesBees).
 
 #### Uadopt
-A group software project that I worked on with a team of other SCU students, known as [Uadopt](https://uadopt.netlify.com), is a website that uses AI to match a user with their perfect pet. I took a lead role on the layout and design of the website, and also developed the matching algorithm. My original C++ code can be found [here](https://github.com/caitlinsigler/SCUProjects/blob/master/C/AlgorithmTesting.cpp), but you can see it in action [here](https://github.com/NickPriv/Uadopt/blob/master/topFiveBreeds.php). 
+A group software project that I worked on with a team of other SCU students, known as [Uadopt](https://uadopt.netlify.com), is a website that uses AI to match a user with their perfect pet. I took a lead role on the layout and design of the website, closely following software development practices to ensure a useful product for our users. I also developed the matching algorithm, which assigned numerical values to specific traits and calculated the user's unique 'compatibility index' for each breed in our database. My original C++ code for the algorithm can be found [here](https://github.com/caitlinsigler/SCUProjects/blob/master/C/AlgorithmTesting.cpp), but you can see it in action [here](https://github.com/NickPriv/Uadopt/blob/master/topFiveBreeds.php). 
 
 ### Work Experience
 
