@@ -25,7 +25,7 @@ Design and Management of Software, Programming Languages, Operating Systems, Dis
 
 ### Recent Projects
 #### Automated Hydroponic System
-The most recent project I have worked on is an [automated hydroponics system](https://). This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing.
+The most recent project I have worked on is an [automated hydroponics system](https://github.com/malikmayank/hydroponic) with Stanford Professor [Mayank Malik](https://www.linkedin.com/in/malikmayank/). This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing.
 
 #### Bonnie's Bees
 I have also built a simple [website](https://bonniebees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backyard.
