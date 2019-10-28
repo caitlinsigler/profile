@@ -8,14 +8,11 @@ My name is Caitlin Sigler. I am currently a student at Santa Clara University ea
 #### Contact
 caitlins360@gmail.com
 
-
 [LinkedIn](https://www.linkedin.com/in/caitlinsigler/)
 
 
 [GitHub](https://github.com/caitlinsigler)
 
-
-[Resume](http://)
 
 #### Skills
 Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
@@ -31,7 +28,7 @@ Design and Management of Software, Programming Languages, Operating Systems, Dis
 The most recent project I have worked on is an [automated hydroponics system](https://). This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing.
 
 #### Bonnie's Bees
-I have also worked on a simple [website](https://bonniebees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backayrd.
+I have also built a simple [website](https://bonniebees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backyard.
 
 #### Uadopt
 A group software project that I worked on with a team of other SCU students, known as [Uadopt](https://uadopt.netlify.com), is a website that uses AI to match a user with their perfect pet. I took a lead role on the layout and design of the website, and also developed the matching algorithm. My original C++ code can be found [here](https://github.com/caitlinsigler/SCUProjects/blob/master/C/AlgorithmTesting.cpp), but you can see it in action [here](https://github.com/NickPriv/Uadopt/blob/master/topFiveBreeds.php). 
@@ -53,7 +50,7 @@ A group software project that I worked on with a team of other SCU students, kno
 #### Educator (Jun. 2018- Jul. 2018)
 ##### Code Hobbits
 - Teach STEM focused Summer classes to students age 10-14 such as Virtual Reality, Circuit Playground, and Scratch & Makey Makey.
-- Utilize Scratch, MIT app Inventor, and Arduino to aloow students to gain experience and skills in various technologies.
+- Utilize Scratch, MIT app Inventor, and Arduino to allow students to gain experience and skills in various technologies.
 - Create a fun and inclusive environment with the goal of introducing young students to core STEM topics in a fun and educational way
 
 #### Immersive Study: Rwanda (Aug. 2018)
