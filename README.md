@@ -25,7 +25,7 @@ Design and Management of Software, Databases, Operating Systems, Networks, Proba
 
 ### Recent Projects
 #### Galapagos Online Guide
-After spending a semester abroad in Ecuador and the Galapagos Islands, I built a [website](https://caitlinsigler.github.io/galapagosGuide/index.html) that acts as a resource for planning a comprehensive and affordable trip to the Islands. Using HTML, CSS, and JavaScript, I created an in depth guide full of useful information such as where to view specific species, things to do for free on the islands, my favorite places to eat, and my favorite paid tours. All photos on the site were taken by me during my time abroad. 
+After spending a semester abroad in Ecuador and the Galapagos Islands, I built a [website](https://caitlinsigler.github.io/galapagosGuide/index.html) that acts as a resource for planning a comprehensive and affordable trip to the Galapagos Islands. Using HTML, CSS, and JavaScript, I created an in depth guide full of useful information such as where to view specific species, things to do for free on the islands, my favorite places to eat, and my favorite paid tours. All photos on the site were taken by me during my time abroad. 
 
 #### Automated Hydroponic System
 During the Summer of 2019, I built an [automated hydroponics system](https://github.com/malikmayank/hydroponic) with Stanford Professor [Mayank Malik](https://www.linkedin.com/in/malikmayank/). This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing. This system can grow enough salad greens to feed a family of 4, and uses 90% less water than conventional growing methods.
