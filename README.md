@@ -21,14 +21,17 @@ Programming: C++, Python, C, Shell, HTML, CSS, JavaScript, MySQL
 Tools: Git, Jupyter Notebooks, Xcode, Atom, Sublime Text, Qt
 
 #### Related Coursework
-Design and Management of Software, Programming Languages, Operating Systems, Discrete Mathematics, Automata Theory, Probability & Statistics, Algorithm Theory & Design, Object Oriented Programming, Data Structures, Embedded Systems & Logic Design, Single and Multivariable Calculus
+Design and Management of Software, Databases, Operating Systems, Networks, Probability & Statistics, Algorithm Theory & Design, Object Oriented Programming, Data Structures
 
 ### Recent Projects
+#### Galapagos Online Guide
+After spending a semester abroad in Ecuador and the Galapagos Islands, I built a website that acts as a resource for planning a comprehensive and affordable trip to the Islands. Using HTML, CSS, and JavaScript, I created an in depth guide full of useful information such as where to view specific species, things to do for free on the islands, my favorite places to eat, and my favorite paid tours. All photos on the site were taken by me during my time abroad. 
+
 #### Automated Hydroponic System
-The most recent project I have worked on is an [automated hydroponics system](https://github.com/malikmayank/hydroponic) with Stanford Professor [Mayank Malik](https://www.linkedin.com/in/malikmayank/). This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing.
+During the Summer of 2019, I built an [automated hydroponics system](https://github.com/malikmayank/hydroponic) with Stanford Professor [Mayank Malik](https://www.linkedin.com/in/malikmayank/). This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing. This system can grow enough salad greens to feed a family of 4, and uses 90% less water than conventional growing methods.
 
 #### Bonnie Bees
-I have also built a simple [website](https://bonniebees.netlify.com/index.html) for my friend Ryan, who runs his own honey company from the beehives in his backyard. View the repository [here](https://github.com/caitlinsigler/BonniesBees).
+I built a [website](https://bonniebees.netlify.com/index.html) for my friend, who runs his own honey company using the beehives in his backyard. View the repository [here](https://github.com/caitlinsigler/BonniesBees).
 
 #### Uadopt
 A group software project that I worked on with a team of other SCU students, known as [Uadopt](https://uadopt.netlify.com), is a website that uses AI to match a user with their perfect pet. I took a lead role on the layout and design of the website, closely following software development practices to ensure a useful product for our users. I also developed the matching algorithm, which assigned numerical values to specific traits and calculated the user's unique 'compatibility index' for each breed in our database. My original C++ code for the algorithm can be found [here](https://github.com/caitlinsigler/SCUProjects/blob/master/C/AlgorithmTesting.cpp), but you can see it in action [here](https://github.com/NickPriv/Uadopt/blob/master/topFiveBreeds.php). 
